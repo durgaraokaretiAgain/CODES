@@ -1,0 +1,1219 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Attach",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of the debuggee>"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ActivitySelection",
+            "request": "launch",
+            "mainClass": "ActivitySelection",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "AntiDiagonals",
+            "request": "launch",
+            "mainClass": "AntiDiagonals",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDiff",
+            "request": "launch",
+            "mainClass": "ArrayDiff",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ArrayStringIsogramOrNot",
+            "request": "launch",
+            "mainClass": "ArrayStringIsogramOrNot",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "AssignCookies",
+            "request": "launch",
+            "mainClass": "AssignCookies",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "AssignMiceHole",
+            "request": "launch",
+            "mainClass": "AssignMiceHole",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "BFSAdjListBST",
+            "request": "launch",
+            "mainClass": "BFSAdjListBST",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "BFSAdjMatrixBST",
+            "request": "launch",
+            "mainClass": "BFSAdjMatrixBST",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "BST",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "BestTimetoBuyStocks",
+            "request": "launch",
+            "mainClass": "BestTimetoBuyStocks",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "CamelCaseChar",
+            "request": "launch",
+            "mainClass": "CamelCaseChar",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "CircularlyShiftChar",
+            "request": "launch",
+            "mainClass": "CircularlyShiftChar",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "CoinChange",
+            "request": "launch",
+            "mainClass": "CoinChange",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ConcatUncomChar",
+            "request": "launch",
+            "mainClass": "ConcatUncomChar",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ConcatenateUncommonChars",
+            "request": "launch",
+            "mainClass": "ConcatenateUncommonChars",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ConnectRopesWithMinCost",
+            "request": "launch",
+            "mainClass": "ConnectRopesWithMinCost",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ConsecutiveOrNot",
+            "request": "launch",
+            "mainClass": "ConsecutiveOrNot",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ConsecutiveZeroesInBString",
+            "request": "launch",
+            "mainClass": "ConsecutiveZeroesInBString",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ContainerWithMostWater",
+            "request": "launch",
+            "mainClass": "ContainerWithMostWater",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "CountEleAtleastK",
+            "request": "launch",
+            "mainClass": "CountEleAtleastK",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "CountSmallEleOnRight",
+            "request": "launch",
+            "mainClass": "CountSmallEleOnRight",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "CountStringAtMostK",
+            "request": "launch",
+            "mainClass": "CountStringAtMostK",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "CountStringsWithFrequency",
+            "request": "launch",
+            "mainClass": "CountStringsWithFrequency",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "CountUniqueRows",
+            "request": "launch",
+            "mainClass": "CountUniqueRows",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "CountWordsInString",
+            "request": "launch",
+            "mainClass": "CountWordsInString",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "CumulativeSum",
+            "request": "launch",
+            "mainClass": "CumulativeSum",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DFSAdjList",
+            "request": "launch",
+            "mainClass": "DFSAdjList",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DFSAdjListRecursion",
+            "request": "launch",
+            "mainClass": "DFSAdjListRecursion",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DFSAdjMatrix",
+            "request": "launch",
+            "mainClass": "DFSAdjMatrix",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DFSAdjMatrixRecursion",
+            "request": "launch",
+            "mainClass": "DFSAdjMatrixRecursion",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DPFibb",
+            "request": "launch",
+            "mainClass": "DPFibb",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DPLcsRecursion",
+            "request": "launch",
+            "mainClass": "DPLcsRecursion",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DPNthStairWithMsteps",
+            "request": "launch",
+            "mainClass": "DPNthStairWithMsteps",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DPTabNthStaitWithMsteps",
+            "request": "launch",
+            "mainClass": "DPTabNthStaitWithMsteps",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DelCycLL",
+            "request": "launch",
+            "mainClass": "DelCycLL",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DelMidEleLL",
+            "request": "launch",
+            "mainClass": "DelMidEleLL",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DistinctCountBF",
+            "request": "launch",
+            "mainClass": "DistinctCountBF",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DistinctCountSW",
+            "request": "launch",
+            "mainClass": "DistinctCountSW",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DistinctStrings",
+            "request": "launch",
+            "mainClass": "DistinctStrings",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DistributeCandy",
+            "request": "launch",
+            "mainClass": "DistributeCandy",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DpMinCostRecursion",
+            "request": "launch",
+            "mainClass": "DpMinCostRecursion",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DpMinPathRecursion",
+            "request": "launch",
+            "mainClass": "DpMinPathRecursion",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DpNthStair",
+            "request": "launch",
+            "mainClass": "DpNthStair",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DpNthStairWithMsteps",
+            "request": "launch",
+            "mainClass": "DpNthStairWithMsteps",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DpTabFibb",
+            "request": "launch",
+            "mainClass": "DpTabFibb",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DpTabNthStair",
+            "request": "launch",
+            "mainClass": "DpTabNthStair",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "DuckNo",
+            "request": "launch",
+            "mainClass": "DuckNo",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "EditDistProbTab",
+            "request": "launch",
+            "mainClass": "EditDistProbTab",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "EditDistprob",
+            "request": "launch",
+            "mainClass": "EditDistprob",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ElementsWithCountK",
+            "request": "launch",
+            "mainClass": "ElementsWithCountK",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "EncryptString",
+            "request": "launch",
+            "mainClass": "EncryptString",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumberOfDigits",
+            "request": "launch",
+            "mainClass": "EvenNumberOfDigits",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "EvenPosGreatOdd",
+            "request": "launch",
+            "mainClass": "EvenPosGreatOdd",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "EvencharFreqInString",
+            "request": "launch",
+            "mainClass": "EvencharFreqInString",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ExpandString",
+            "request": "launch",
+            "mainClass": "ExpandString",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicatesSW",
+            "request": "launch",
+            "mainClass": "FindDuplicatesSW",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "FindExtraChar",
+            "request": "launch",
+            "mainClass": "FindExtraChar",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "FindHighFreq",
+            "request": "launch",
+            "mainClass": "FindHighFreq",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "FindMaxSumSlidingWindow",
+            "request": "launch",
+            "mainClass": "FindMaxSumSlidingWindow",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "FindMaxValue",
+            "request": "launch",
+            "mainClass": "FindMaxValue",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "FindStringByUsingEncriptionPattern",
+            "request": "launch",
+            "mainClass": "FindStringByUsingEncriptionPattern",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "FindSumAdjSW",
+            "request": "launch",
+            "mainClass": "FindSumAdjSW",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "FirstNegInSubArray",
+            "request": "launch",
+            "mainClass": "FirstNegInSubArray",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "FloarAndCielOfNode",
+            "request": "launch",
+            "mainClass": "FloarAndCielOfNode",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "FreeCellsInMatrix",
+            "request": "launch",
+            "mainClass": "FreeCellsInMatrix",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "GCDOfArray",
+            "request": "launch",
+            "mainClass": "GCDOfArray",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "GCDmlo",
+            "request": "launch",
+            "mainClass": "GCDmlo",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "GraphAdjList",
+            "request": "launch",
+            "mainClass": "GraphAdjList",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "GraphAdjMatrix",
+            "request": "launch",
+            "mainClass": "GraphAdjMatrix",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "HalfNodesBst",
+            "request": "launch",
+            "mainClass": "HalfNodesBst",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "HeightOfBST",
+            "request": "launch",
+            "mainClass": "HeightOfBST",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "HighestProduct",
+            "request": "launch",
+            "mainClass": "HighestProduct",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "HouseRobber",
+            "request": "launch",
+            "mainClass": "HouseRobber",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "IndexOfK",
+            "request": "launch",
+            "mainClass": "IndexOfK",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "InvertLevelOrderTraversal",
+            "request": "launch",
+            "mainClass": "InvertLevelOrderTraversal",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "JumpGame",
+            "request": "launch",
+            "mainClass": "JumpGame",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "KthOccurence",
+            "request": "launch",
+            "mainClass": "KthOccurence",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "KthSmallestValueBST",
+            "request": "launch",
+            "mainClass": "KthSmallestValueBST",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LLlastfirstSwitch",
+            "request": "launch",
+            "mainClass": "LLlastfirstSwitch",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LeadersInArray",
+            "request": "launch",
+            "mainClass": "LeadersInArray",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LeafNodes",
+            "request": "launch",
+            "mainClass": "LeafNodes",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LeftViewOfBST",
+            "request": "launch",
+            "mainClass": "LeftViewOfBST",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LemonadeChange",
+            "request": "launch",
+            "mainClass": "LemonadeChange",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LevelOrderTraversal",
+            "request": "launch",
+            "mainClass": "LevelOrderTraversal",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LevelWithMaxNoOfNodes",
+            "request": "launch",
+            "mainClass": "LevelWithMaxNoOfNodes",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LexicographicallySortedChars",
+            "request": "launch",
+            "mainClass": "LexicographicallySortedChars",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonSubSequence",
+            "request": "launch",
+            "mainClass": "LongestCommonSubSequence",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LongestIncSubSeq",
+            "request": "launch",
+            "mainClass": "LongestIncSubSeq",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "LowestCommonAncestor",
+            "request": "launch",
+            "mainClass": "LowestCommonAncestor",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MakingTwoArraySame",
+            "request": "launch",
+            "mainClass": "MakingTwoArraySame",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MatchstickCount",
+            "request": "launch",
+            "mainClass": "MatchstickCount",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MatrixEleMinRMaxC",
+            "request": "launch",
+            "mainClass": "MatrixEleMinRMaxC",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MatrixElementsPresentInAllRowa",
+            "request": "launch",
+            "mainClass": "MatrixElementsPresentInAllRowa",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MaxArraySumAftKNegations",
+            "request": "launch",
+            "mainClass": "MaxArraySumAftKNegations",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MaxConsecutiveOnes",
+            "request": "launch",
+            "mainClass": "MaxConsecutiveOnes",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MaxIndexDifference",
+            "request": "launch",
+            "mainClass": "MaxIndexDifference",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MaxLenthChain",
+            "request": "launch",
+            "mainClass": "MaxLenthChain",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MaxNoOfThiefCanCought",
+            "request": "launch",
+            "mainClass": "MaxNoOfThiefCanCought",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MaxOccurChar",
+            "request": "launch",
+            "mainClass": "MaxOccurChar",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MaxSumInFixSize",
+            "request": "launch",
+            "mainClass": "MaxSumInFixSize",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MaxSumOfDistSubArrSW",
+            "request": "launch",
+            "mainClass": "MaxSumOfDistSubArrSW",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MaxSumOfTwoArrays",
+            "request": "launch",
+            "mainClass": "MaxSumOfTwoArrays",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MaxTaskInGivenTime",
+            "request": "launch",
+            "mainClass": "MaxTaskInGivenTime",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MaxUnitsOntruck",
+            "request": "launch",
+            "mainClass": "MaxUnitsOntruck",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MenuDrivenBinarySearchTree",
+            "request": "launch",
+            "mainClass": "MenuDrivenBinarySearchTree",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MidEleLL",
+            "request": "launch",
+            "mainClass": "MidEleLL",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MinCostPath",
+            "request": "launch",
+            "mainClass": "MinCostPath",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MinMaxArrays",
+            "request": "launch",
+            "mainClass": "MinMaxArrays",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MinNoOfInsStrToPalindrom",
+            "request": "launch",
+            "mainClass": "MinNoOfInsStrToPalindrom",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MinOperationsToEqualArrayElements",
+            "request": "launch",
+            "mainClass": "MinOperationsToEqualArrayElements",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MinPath",
+            "request": "launch",
+            "mainClass": "MinPath",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MinimizeNto1",
+            "request": "launch",
+            "mainClass": "MinimizeNto1",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MinnumbOfPlatForms",
+            "request": "launch",
+            "mainClass": "MinnumbOfPlatForms",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MirrorTree",
+            "request": "launch",
+            "mainClass": "MirrorTree",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MissingCharInAlpha",
+            "request": "launch",
+            "mainClass": "MissingCharInAlpha",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ModifyMatrixDiagonal",
+            "request": "launch",
+            "mainClass": "ModifyMatrixDiagonal",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "MostSimilarStrings",
+            "request": "launch",
+            "mainClass": "MostSimilarStrings",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "NextRightNode",
+            "request": "launch",
+            "mainClass": "NextRightNode",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "NthNodeFirst",
+            "request": "launch",
+            "mainClass": "NthNodeFirst",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "OddCubEvenSqr",
+            "request": "launch",
+            "mainClass": "OddCubEvenSqr",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "PairSum",
+            "request": "launch",
+            "mainClass": "PairSum",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "PairWiseSwapLL",
+            "request": "launch",
+            "mainClass": "PairWiseSwapLL",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeOrNot",
+            "request": "launch",
+            "mainClass": "PalindromeOrNot",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "Pangram",
+            "request": "launch",
+            "mainClass": "Pangram",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "PerfecNoSum",
+            "request": "launch",
+            "mainClass": "PerfecNoSum",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfArrayExceptItself",
+            "request": "launch",
+            "mainClass": "ProductOfArrayExceptItself",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "PruductOfArrEle",
+            "request": "launch",
+            "mainClass": "PruductOfArrEle",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "RemainingGoldCoins",
+            "request": "launch",
+            "mainClass": "RemainingGoldCoins",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ReverseLinkedList",
+            "request": "launch",
+            "mainClass": "ReverseLinkedList",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ReverseVowels",
+            "request": "launch",
+            "mainClass": "ReverseVowels",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "RotationalPalindrome",
+            "request": "launch",
+            "mainClass": "RotationalPalindrome",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SegeragatingLL",
+            "request": "launch",
+            "mainClass": "SegeragatingLL",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ShortestWordDistance",
+            "request": "launch",
+            "mainClass": "ShortestWordDistance",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SmallestAndLargestNodeBSt",
+            "request": "launch",
+            "mainClass": "SmallestAndLargestNodeBSt",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SnakePatternMatrix",
+            "request": "launch",
+            "mainClass": "SnakePatternMatrix",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SortArrayByDistinctPrimeFactCount",
+            "request": "launch",
+            "mainClass": "SortArrayByDistinctPrimeFactCount",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SortArrayWithLength",
+            "request": "launch",
+            "mainClass": "SortArrayWithLength",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SortStringAccordingToOrder",
+            "request": "launch",
+            "mainClass": "SortStringAccordingToOrder",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SortStringByFrequency",
+            "request": "launch",
+            "mainClass": "SortStringByFrequency",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SqrtOfMatrixDiag",
+            "request": "launch",
+            "mainClass": "SqrtOfMatrixDiag",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "StockSum",
+            "request": "launch",
+            "mainClass": "StockSum",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "StrictlyGreaterAndSmaller",
+            "request": "launch",
+            "mainClass": "StrictlyGreaterAndSmaller",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "StringDNotContChar",
+            "request": "launch",
+            "mainClass": "StringDNotContChar",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SubArrayWithGiveSum",
+            "request": "launch",
+            "mainClass": "SubArrayWithGiveSum",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SubArrayWithGiveSumSW",
+            "request": "launch",
+            "mainClass": "SubArrayWithGiveSumSW",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SubArrayWithMilLenSW",
+            "request": "launch",
+            "mainClass": "SubArrayWithMilLenSW",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "SumOfAllOddFreqInMatrix",
+            "request": "launch",
+            "mainClass": "SumOfAllOddFreqInMatrix",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "TopViewOfBT",
+            "request": "launch",
+            "mainClass": "TopViewOfBT",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "WidthOfGiveLevel",
+            "request": "launch",
+            "mainClass": "WidthOfGiveLevel",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "WidthOfGiveLevel1",
+            "request": "launch",
+            "mainClass": "WidthOfGiveLevel1",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "WidthOfGivenLevelInBinaryTree",
+            "request": "launch",
+            "mainClass": "WidthOfGivenLevelInBinaryTree",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "WordCounterinTwise",
+            "request": "launch",
+            "mainClass": "WordCounterinTwise",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ZeBy1KnapSack",
+            "request": "launch",
+            "mainClass": "ZeBy1KnapSack",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "ZigZagTraversal",
+            "request": "launch",
+            "mainClass": "ZigZagTraversal",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "countwordsbySNT",
+            "request": "launch",
+            "mainClass": "countwordsbySNT",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "findfrequencyusingHashMap",
+            "request": "launch",
+            "mainClass": "findfrequencyusingHashMap",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "freqcharisFactfreqchar",
+            "request": "launch",
+            "mainClass": "freqcharisFactfreqchar",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "initialOfNameWithSurname",
+            "request": "launch",
+            "mainClass": "initialOfNameWithSurname",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "initialOfNames",
+            "request": "launch",
+            "mainClass": "initialOfNames",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "kadeneAlg",
+            "request": "launch",
+            "mainClass": "kadeneAlg",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "occureAtleastMtimes",
+            "request": "launch",
+            "mainClass": "occureAtleastMtimes",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "revcharbridge",
+            "request": "launch",
+            "mainClass": "revcharbridge",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "rmPunctuations",
+            "request": "launch",
+            "mainClass": "rmPunctuations",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "strFirstAndLastPaldm",
+            "request": "launch",
+            "mainClass": "strFirstAndLastPaldm",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "twins",
+            "request": "launch",
+            "mainClass": "twins",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "uniqueVal",
+            "request": "launch",
+            "mainClass": "uniqueVal",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "valuesGratLeftRight",
+            "request": "launch",
+            "mainClass": "valuesGratLeftRight",
+            "projectName": "CODES_805cdbb"
+        },
+        {
+            "type": "java",
+            "name": "wordcountinstring",
+            "request": "launch",
+            "mainClass": "wordcountinstring",
+            "projectName": "CODES_805cdbb"
+        }
+    ]
+}
